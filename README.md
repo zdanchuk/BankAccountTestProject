@@ -1,7 +1,7 @@
 ## Project Overview
 
 This is a **Maven-based Java project** built without any additional frameworks — using only **JUnit** for testing purposes.  
-It was scaffolded using the official `maven-archetype-quickstart` and developed with **Java 21**.
+The project used the `maven-archetype-quickstart` archetype and **Java 21**.
 
 ## Technologies Used
 
